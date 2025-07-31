@@ -1,5 +1,5 @@
 # SQL-related-Project:
-This is the project based on Structured Query Language.
+This is the project based on Structured Query Language. It include a database to enter and manage data of Hospital based entities.
 # "Hospital Management system"
 # Introduction:
 A Hospital Management System (HMS) is crucial for efficiently managing healthcare facilities, including patient records, appointments, billing, and other administrative tasks. The database design for an HMS needs to be robust, scalable, and secure to handle sensitive patient information and support various operational needs of the hospital.
